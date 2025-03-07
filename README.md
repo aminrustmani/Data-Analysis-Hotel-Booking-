@@ -34,7 +34,7 @@ The analysis includes:
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hotel-booking-analysis.git
+   git clone https://github.com/aminrustmani/hotel-booking-analysis.git
    ```
 2. Navigate to the project folder:
    ```bash
